@@ -1,1 +1,2 @@
-# Second_Largest_Number
+# Array in sorted manner
+This includes problem on array elements are in sorted manner or not
